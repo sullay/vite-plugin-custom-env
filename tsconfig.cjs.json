@@ -1,12 +1,10 @@
 {
     "compilerOptions": {
         "target": "ESNext",
-        "module": "ESNext",
-        "strict": true,
-        "noImplicitAny": false,
-        "declaration": true,
+        "module": "CommonJS",
         "skipLibCheck": true,
         "moduleResolution":"Node",
+        "outDir": "./cjs",
     },
     "exclude": [
         "node_modules",
