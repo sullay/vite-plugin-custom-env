@@ -1,0 +1,40 @@
+{
+  "name": "vite-plugin-custom-env",
+  "version": "0.0.1",
+  "description": "A Vite plugin for customizing and integrating environment variables seamlessly into your Vite project. It allows for easy management and access of environment variables, supporting both direct env variable lists and env maps for flexible configuration.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "tsc --build --clean",
+    "prepublishOnly": "npm run build",
+    "postpublish": "npm run clean",
+    "test": "jest"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "environment",
+    "variables",
+    "configuration",
+    "custom",
+    "env"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sullay/vite-plugin-custom-env.git"
+  },
+  "author": "sullay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sullay/vite-plugin-custom-env/issues"
+  },
+  "homepage": "https://github.com/sullay/vite-plugin-custom-env#readme",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.9.4",
+    "vite": "^5.0.2"
+  }
+}
