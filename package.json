@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-custom-env",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Vite plugin for customizing and integrating environment variables seamlessly into your Vite project. It allows for easy management and access of environment variables, supporting both direct env variable lists and env maps for flexible configuration.",
   "main": "cjs/index.js",
   "module": "index.js",

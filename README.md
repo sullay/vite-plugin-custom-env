@@ -34,11 +34,11 @@
 To install the plugin, you can use npm or yarn:
 
 ```bash
-npm install vite-plugin-env -D
+npm install vite-plugin-custom-env -D
 # or
-yarn add vite-plugin-env -D
+yarn add vite-plugin-custom-env -D
 # or
-pnpm add vite-plugin-env -D
+pnpm add vite-plugin-custom-env -D
 
 ```
 
@@ -46,7 +46,7 @@ pnpm add vite-plugin-env -D
 First, import the plugin in your Vite configuration file:
 
 ``` js
-import { VitePluginEnv } from 'vite-plugin-env';
+import { VitePluginEnv } from 'vite-plugin-custom-env';
 ```
 
 Then, you can use it in your Vite configuration:
@@ -54,7 +54,7 @@ Then, you can use it in your Vite configuration:
 ``` js
 // vite.config.js
 import { defineConfig } from 'vite';
-import { VitePluginEnv } from 'vite-plugin-env';
+import { VitePluginEnv } from 'vite-plugin-custom-env';
 
 export default defineConfig({
   plugins: [VitePluginEnv(/* options here */)]
