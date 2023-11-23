@@ -1,6 +1,25 @@
-# vite-plugin-env
-
-`vite-plugin-env` is a Vite plugin designed to simplify the integration and management of environment variables in your Vite projects. It allows you to define and access environment variables efficiently, supporting both arrays and object maps for flexible configuration.
+<h1 align="center">vite-plugin-env</h1>
+<div align="center">
+  <p align="center">`vite-plugin-env` is a Vite plugin designed to simplify the integration and management of environment variables in your Vite projects. It allows you to define and access environment variables efficiently, supporting both arrays and object maps for flexible configuration.</p>
+  <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
+    <img src="https://img.shields.io/bundlephobia/minzip/vite-plugin-custom-env" alt="Size" />
+  </a>
+  <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
+    <img src="https://img.shields.io/npm/v/vite-plugin-custom-env" alt="Version" />
+  </a>
+  <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
+    <img src="https://img.shields.io/github/languages/top/sullay/vite-plugin-custom-env" alt="Languages" />
+  </a>
+  <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
+    <img src="https://img.shields.io/npm/l/vite-plugin-custom-env" alt="License" />
+  </a>
+  <a href="https://github.com/sullay/vite-plugin-custom-env/stargazers">
+    <img src="https://img.shields.io/github/stars/sullay/vite-plugin-custom-env" alt="Star" />
+  </a>
+  <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
+    <img src="https://img.shields.io/npm/dm/vite-plugin-custom-env" alt="Download" />
+  </a>
+</div>
 
 ## Features
 
