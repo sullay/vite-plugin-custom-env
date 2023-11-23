@@ -1,6 +1,5 @@
 <h1 align="center">vite-plugin-env</h1>
 <div align="center">
-  <p align="center">`vite-plugin-env` is a Vite plugin designed to simplify the integration and management of environment variables in your Vite projects. It allows you to define and access environment variables efficiently, supporting both arrays and object maps for flexible configuration.</p>
   <a href="https://www.npmjs.com/package/vite-plugin-custom-env">
     <img src="https://img.shields.io/bundlephobia/minzip/vite-plugin-custom-env" alt="Size" />
   </a>
@@ -20,6 +19,9 @@
     <img src="https://img.shields.io/npm/dm/vite-plugin-custom-env" alt="Download" />
   </a>
 </div>
+
+
+`vite-plugin-env` is a Vite plugin designed to simplify the integration and management of environment variables in your Vite projects. It allows you to define and access environment variables efficiently, supporting both arrays and object maps for flexible configuration.
 
 ## Features
 
